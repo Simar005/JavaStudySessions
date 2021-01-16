@@ -3,7 +3,7 @@ package squad;
 import java.util.Scanner;
 
 //practice interview question!
-//why is this message not able to push to git hub
+
 public class EvenOrOdd {
 	
 	
